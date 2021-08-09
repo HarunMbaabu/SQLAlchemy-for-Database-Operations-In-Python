@@ -1,0 +1,501 @@
+seic,seic_benefit,SEIC ERROR,health,health_benefit,Health ERROR,house,house_benefit,House ERROR,nutrition,nutrition_benefit,Nutrition ERROR,livelihood,livelihood_benefit,livelihood ERROR,education,education_benefit,Education ERROR,scheme1,scheme1_benefit,Scheme-1 ERROR,scheme2,scheme2_benefit,Scheme-2 ERROR
+62.8,86072,No Error,89,73165,No Error,42,71830,No Error,34,39751,No Error,98,46686,No Error,51,70891,No Error,53,Eligible,No Error,43,Eligible,No Error
+66.0,75920,No Error,44,8676,No Error,71,54466,No Error,57,45360,No Error,97,60792,No Error,61,78283,No Error,52,Non-Eligible,No Error,95,Non-Eligible,EOE
+72.6,22970,No Error,95,17161,No Error,100,51961,No Error,69,32700,No Error,36,87986,No Error,63,31900,No Error,36,Eligible,No Error,18,Non-Eligible,No Error
+60.4,8706,No Error,81,70125,No Error,68,26409,No Error,54,72371,No Error,59,98138,No Error,40,5130,No Error,57,Eligible,No Error,40,Eligible,No Error
+64.8,26059,No Error,67,54973,No Error,42,37282,No Error,55,45790,No Error,80,42652,No Error,80,6901,EOE,20,Eligible,EOI,32,Eligible,No Error
+82.4,57793,No Error,99,20344,No Error,96,13030,No Error,98,23269,No Error,31,36140,No Error,88,14116,No Error,46,Non-Eligible,No Error,70,Non-Eligible,No Error
+43.2,31095,No Error,27,58161,No Error,50,76071,No Error,70,71086,No Error,3,35889,No Error,66,53187,No Error,35,Eligible,No Error,53,Non-Eligible,No Error
+49.4,29675,No Error,85,65590,No Error,63,28687,No Error,37,29761,No Error,10,91745,EOI,52,7841,No Error,61,Eligible,No Error,95,Eligible,No Error
+67.2,86094,No Error,81,9080,EOE,99,13281,No Error,69,41552,No Error,32,12516,No Error,55,2516,No Error,27,Non-Eligible,No Error,61,Eligible,No Error
+54.0,17186,No Error,30,57202,No Error,77,40868,No Error,39,12551,No Error,31,57180,No Error,93,41520,No Error,47,Eligible,No Error,57,Non-Eligible,No Error
+41.2,12669,No Error,41,30004,No Error,65,19241,No Error,30,33236,No Error,18,26537,No Error,52,5022,No Error,43,Non-Eligible,No Error,31,Eligible,No Error
+53.4,11704,No Error,56,6691,No Error,94,47815,No Error,39,34701,No Error,28,71033,No Error,50,50742,No Error,43,Eligible,No Error,72,Non-Eligible,No Error
+50.4,80735,No Error,32,39518,No Error,89,19757,No Error,51,25924,No Error,40,82556,No Error,40,12882,No Error,80,Eligible,No Error,57,Eligible,No Error
+59.0,26819,No Error,80,59145,No Error,76,51820,No Error,51,66694,No Error,25,64674,EOI,63,47409,No Error,92,Non-Eligible,EOE,76,Non-Eligible,No Error
+46.4,13782,No Error,24,10189,No Error,50,70630,No Error,22,78695,EOI,53,62004,No Error,83,16793,No Error,88,Non-Eligible,EOE,65,Eligible,No Error
+61.4,23612,No Error,29,62886,No Error,94,64316,No Error,71,49591,No Error,34,29022,No Error,79,65812,No Error,45,Eligible,No Error,68,Eligible,No Error
+58.0,92032,No Error,83,14013,No Error,86,38112,No Error,33,29781,No Error,36,66560,No Error,52,34740,No Error,71,Non-Eligible,No Error,88,Eligible,No Error
+46.4,9944,No Error,48,11734,No Error,64,69936,No Error,33,29573,No Error,40,8137,No Error,47,44904,No Error,75,Non-Eligible,No Error,99,Non-Eligible,EOE
+54.0,19887,No Error,64,35359,No Error,83,63732,No Error,42,57266,No Error,9,35787,No Error,72,237,No Error,68,Non-Eligible,No Error,89,Eligible,No Error
+61.2,65132,No Error,62,38232,No Error,83,75919,No Error,30,51820,No Error,85,99558,No Error,46,15077,No Error,33,Non-Eligible,No Error,53,Eligible,No Error
+69.2,26818,No Error,59,47207,No Error,51,74304,No Error,79,50952,No Error,57,36627,No Error,100,45812,No Error,71,Eligible,No Error,30,Eligible,No Error
+49.2,35766,No Error,91,66563,No Error,41,70438,No Error,40,33546,No Error,18,85948,EOI,56,7120,No Error,35,Non-Eligible,No Error,40,Eligible,No Error
+65.8,17752,No Error,73,6134,No Error,54,15774,No Error,45,41912,No Error,74,21770,No Error,83,61793,No Error,96,Eligible,No Error,34,Non-Eligible,No Error
+60.4,36341,No Error,39,16355,No Error,33,38633,No Error,88,24268,No Error,90,88679,No Error,52,37158,No Error,75,Non-Eligible,No Error,49,Eligible,No Error
+46.8,85029,No Error,52,14943,No Error,66,22997,No Error,43,33666,No Error,21,60055,EOI,52,30918,No Error,89,Eligible,No Error,98,Eligible,No Error
+48.8,68788,No Error,23,52465,EOI,60,52313,No Error,60,39392,No Error,3,60741,EOI,98,45864,No Error,33,Eligible,No Error,10,Eligible,EOI
+70.6,4155,EOE,92,66761,No Error,65,30050,No Error,36,67392,No Error,69,28745,No Error,91,55390,No Error,81,Non-Eligible,EOE,36,Eligible,No Error
+55.0,71283,No Error,35,68490,No Error,35,35048,No Error,85,68867,No Error,62,60671,No Error,58,27938,No Error,22,Eligible,No Error,27,Non-Eligible,No Error
+43.0,86307,No Error,57,48994,No Error,59,26129,No Error,13,53733,EOI,13,51986,EOI,73,13511,No Error,65,Non-Eligible,No Error,62,Eligible,No Error
+61.2,65738,No Error,61,6767,No Error,40,70426,No Error,59,25415,No Error,82,56873,No Error,64,46659,No Error,62,Non-Eligible,No Error,72,Non-Eligible,No Error
+48.2,12095,No Error,76,67567,No Error,53,54447,No Error,48,24350,No Error,23,76567,EOI,41,33668,No Error,28,Eligible,No Error,49,Non-Eligible,No Error
+77.6,17099,EOE,33,28891,No Error,91,33473,No Error,100,49861,No Error,70,14791,No Error,94,14087,No Error,92,Non-Eligible,EOE,24,Eligible,No Error
+48.8,56652,No Error,21,60134,EOI,39,16584,No Error,24,66008,EOI,92,10347,No Error,68,71841,No Error,63,Non-Eligible,No Error,48,Eligible,No Error
+55.2,38986,No Error,43,6041,No Error,42,17697,No Error,64,48366,No Error,65,55454,No Error,62,52261,No Error,66,Eligible,No Error,83,Non-Eligible,EOE
+46.6,4660,No Error,36,76949,No Error,65,55601,No Error,55,68766,No Error,10,31779,No Error,67,20028,No Error,55,Eligible,No Error,62,Eligible,No Error
+48.8,15965,No Error,21,23880,No Error,70,61601,No Error,17,38015,No Error,50,7594,No Error,86,21975,No Error,32,Non-Eligible,No Error,63,Eligible,No Error
+56.2,25516,No Error,78,29724,No Error,40,40522,No Error,56,12705,No Error,22,19647,No Error,85,60242,No Error,54,Eligible,No Error,18,Eligible,EOI
+68.6,76827,No Error,86,62536,No Error,39,22714,No Error,99,28112,No Error,50,89260,No Error,69,65933,No Error,100,Eligible,No Error,86,Non-Eligible,EOE
+52.6,32912,No Error,77,24443,No Error,82,45266,No Error,20,47844,EOI,1,44265,EOI,83,71336,No Error,35,Non-Eligible,No Error,83,Non-Eligible,EOE
+59.4,59506,No Error,26,57758,No Error,93,7032,EOE,26,54602,No Error,99,77836,No Error,53,77181,No Error,67,Eligible,No Error,80,Eligible,No Error
+67.8,73972,No Error,50,74307,No Error,83,76997,No Error,43,45859,No Error,90,70727,No Error,73,47742,No Error,52,Eligible,No Error,24,Non-Eligible,No Error
+55.4,84477,No Error,66,74682,No Error,54,32890,No Error,45,54755,No Error,35,94244,No Error,77,26322,No Error,92,Non-Eligible,EOE,43,Eligible,No Error
+61.4,37351,No Error,52,39960,No Error,66,76956,No Error,11,67106,EOI,78,90809,No Error,100,61866,No Error,85,Eligible,No Error,95,Non-Eligible,EOE
+65.2,43633,No Error,30,46728,No Error,51,58978,No Error,75,23307,No Error,85,15310,No Error,85,26122,No Error,27,Non-Eligible,No Error,74,Non-Eligible,No Error
+54.0,55152,No Error,63,34242,No Error,80,23824,No Error,38,20648,No Error,43,96092,No Error,46,43219,No Error,60,Non-Eligible,No Error,53,Eligible,No Error
+59.0,86927,No Error,26,50993,No Error,49,27322,No Error,45,70273,No Error,83,50575,No Error,92,42555,No Error,83,Eligible,No Error,50,Eligible,No Error
+51.6,32067,No Error,34,27819,No Error,79,68127,No Error,58,62162,No Error,33,64859,No Error,54,5355,No Error,41,Eligible,No Error,79,Eligible,No Error
+39.0,63301,No Error,34,69578,No Error,73,7288,No Error,31,73802,No Error,2,5073,No Error,55,32252,No Error,56,Eligible,No Error,62,Eligible,No Error
+69.2,77307,No Error,92,66036,No Error,95,48602,No Error,55,45447,No Error,63,77625,No Error,41,30733,No Error,69,Eligible,No Error,38,Eligible,No Error
+54.6,62497,No Error,67,7254,No Error,61,18053,No Error,32,11110,No Error,55,28141,No Error,58,9625,No Error,27,Non-Eligible,No Error,61,Eligible,No Error
+62.6,97216,No Error,94,72930,No Error,68,74750,No Error,84,42288,No Error,9,54556,EOI,58,36562,No Error,95,Non-Eligible,EOE,14,Non-Eligible,No Error
+71.6,56683,No Error,77,70958,No Error,98,71463,No Error,12,77257,EOI,77,52950,No Error,94,3445,EOE,40,Non-Eligible,No Error,44,Non-Eligible,No Error
+75.0,88898,No Error,88,74008,No Error,69,24481,No Error,91,28723,No Error,45,90497,No Error,82,27402,No Error,77,Non-Eligible,No Error,68,Eligible,No Error
+63.6,67424,No Error,84,30151,No Error,44,19492,No Error,17,62180,EOI,79,52357,No Error,94,7505,EOE,29,Eligible,No Error,62,Non-Eligible,No Error
+64.4,13362,No Error,73,70318,No Error,54,27439,No Error,82,21809,No Error,30,56815,No Error,83,10510,No Error,53,Non-Eligible,No Error,81,Eligible,No Error
+75.2,55759,No Error,87,52539,No Error,59,43945,No Error,64,23985,No Error,100,51962,No Error,66,18842,No Error,76,Eligible,No Error,85,Non-Eligible,EOE
+74.4,71014,No Error,53,1163,No Error,80,28415,No Error,99,50728,No Error,86,17777,No Error,54,72934,No Error,30,Eligible,No Error,24,Eligible,No Error
+68.0,49394,No Error,70,56863,No Error,76,73596,No Error,76,70601,No Error,57,35611,No Error,61,46781,No Error,47,Eligible,No Error,77,Non-Eligible,No Error
+73.8,43923,No Error,56,8493,No Error,93,8192,EOE,53,53390,No Error,88,6094,EOE,79,21242,No Error,79,Eligible,No Error,94,Non-Eligible,EOE
+61.2,5377,No Error,72,48034,No Error,38,56558,No Error,76,46899,No Error,26,87499,No Error,94,25068,No Error,81,Eligible,No Error,20,Eligible,EOI
+57.8,949,No Error,50,63248,No Error,47,75550,No Error,87,12894,No Error,41,61826,No Error,64,62461,No Error,99,Eligible,No Error,85,Eligible,No Error
+58.8,33336,No Error,20,9104,No Error,53,73735,No Error,89,10056,No Error,69,24678,No Error,63,53460,No Error,83,Non-Eligible,EOE,66,Eligible,No Error
+57.4,47894,No Error,30,5660,No Error,54,63455,No Error,72,30891,No Error,44,32993,No Error,87,15509,No Error,22,Non-Eligible,No Error,50,Eligible,No Error
+44.0,94942,No Error,55,8596,No Error,46,39623,No Error,42,28979,No Error,14,70616,EOI,63,60298,No Error,31,Non-Eligible,No Error,97,Eligible,No Error
+51.6,7890,No Error,39,43152,No Error,34,33986,No Error,33,48865,No Error,91,44862,No Error,61,32258,No Error,99,Non-Eligible,EOE,75,Non-Eligible,No Error
+65.0,96589,No Error,86,16721,No Error,74,78370,No Error,29,38270,No Error,67,87472,No Error,69,41502,No Error,76,Non-Eligible,No Error,61,Non-Eligible,No Error
+59.8,96055,No Error,82,74289,No Error,68,39413,No Error,50,57151,No Error,5,48200,EOI,94,57298,No Error,27,Non-Eligible,No Error,81,Non-Eligible,EOE
+50.4,20173,No Error,32,59210,No Error,47,55998,No Error,51,46974,No Error,33,28748,No Error,89,58960,No Error,41,Non-Eligible,No Error,64,Eligible,No Error
+34.4,33846,No Error,26,48212,No Error,58,42448,No Error,26,34548,No Error,0,33581,No Error,62,32972,No Error,26,Eligible,No Error,37,Non-Eligible,No Error
+56.0,34088,No Error,37,24102,No Error,99,55181,No Error,72,75432,No Error,26,75124,No Error,46,20403,No Error,59,Eligible,No Error,64,Eligible,No Error
+65.6,32799,No Error,98,17915,No Error,41,38889,No Error,85,68157,No Error,28,64567,No Error,76,59115,No Error,91,Eligible,No Error,51,Non-Eligible,No Error
+61.4,23331,No Error,90,27854,No Error,41,49282,No Error,46,23012,No Error,75,64698,No Error,55,42902,No Error,76,Non-Eligible,No Error,62,Non-Eligible,No Error
+61.2,97084,No Error,90,35764,No Error,62,32904,No Error,55,26127,No Error,6,63035,EOI,93,64633,No Error,59,Eligible,No Error,32,Non-Eligible,No Error
+68.0,9467,No Error,98,37658,No Error,64,44879,No Error,82,47663,No Error,9,53241,EOI,87,6083,EOE,29,Eligible,No Error,10,Non-Eligible,No Error
+50.4,34306,No Error,41,574,No Error,84,13893,No Error,80,26525,No Error,3,56564,EOI,44,32930,No Error,76,Non-Eligible,No Error,87,Eligible,No Error
+53.4,22373,No Error,25,49052,EOI,73,67921,No Error,11,57075,EOI,62,89049,No Error,96,25217,No Error,43,Eligible,No Error,17,Eligible,EOI
+70.2,12956,EOE,74,29717,No Error,90,14358,No Error,44,41597,No Error,58,7588,No Error,85,8692,EOE,20,Eligible,EOI,66,Eligible,No Error
+54.0,67221,No Error,79,66067,No Error,31,75429,No Error,20,28495,No Error,54,56254,No Error,86,11102,No Error,38,Eligible,No Error,80,Eligible,No Error
+64.2,74224,No Error,97,33592,No Error,82,56061,No Error,92,68211,No Error,6,82964,EOI,44,71442,No Error,35,Eligible,No Error,22,Eligible,No Error
+53.6,9265,No Error,43,9414,No Error,65,7482,No Error,60,74811,No Error,30,43063,No Error,70,60721,No Error,48,Eligible,No Error,92,Non-Eligible,EOE
+62.2,61148,No Error,30,46188,No Error,63,59596,No Error,39,74947,No Error,80,16451,No Error,99,60222,No Error,38,Non-Eligible,No Error,10,Eligible,EOI
+65.8,702,No Error,94,62163,No Error,53,70296,No Error,21,19775,No Error,62,95822,No Error,99,34323,No Error,22,Eligible,No Error,78,Eligible,No Error
+67.8,2347,No Error,79,7438,EOE,58,73203,No Error,71,42738,No Error,50,71828,No Error,81,7675,EOE,86,Non-Eligible,EOE,44,Eligible,No Error
+56.8,41527,No Error,31,73844,No Error,80,67071,No Error,43,40956,No Error,85,72282,No Error,45,1038,No Error,89,Non-Eligible,EOE,76,Eligible,No Error
+76.8,3969,EOE,98,7446,EOE,97,6201,EOE,68,40492,No Error,69,96308,No Error,52,17397,No Error,31,Non-Eligible,No Error,82,Non-Eligible,EOE
+31.6,77597,No Error,26,43751,No Error,36,76568,No Error,18,28926,No Error,30,15127,No Error,48,17227,No Error,44,Non-Eligible,No Error,47,Non-Eligible,No Error
+62.2,44842,No Error,56,68668,No Error,100,78352,No Error,40,25142,No Error,37,78730,No Error,78,19606,No Error,43,Non-Eligible,No Error,68,Non-Eligible,No Error
+37.8,14528,No Error,20,31843,No Error,45,26383,No Error,27,59050,No Error,7,15600,No Error,90,38733,No Error,33,Non-Eligible,No Error,72,Eligible,No Error
+63.2,79656,No Error,29,68042,No Error,35,21776,No Error,97,9610,EOE,67,48021,No Error,88,71491,No Error,48,Eligible,No Error,46,Non-Eligible,No Error
+68.2,7023,No Error,74,73692,No Error,89,36665,No Error,59,36422,No Error,45,95231,No Error,74,41016,No Error,47,Non-Eligible,No Error,82,Non-Eligible,EOE
+40.0,66971,No Error,59,35109,No Error,48,10442,No Error,24,70463,EOI,0,15098,No Error,69,14640,No Error,47,Eligible,No Error,53,Non-Eligible,No Error
+57.8,26864,No Error,99,5327,EOE,99,54202,No Error,12,25146,No Error,35,61897,No Error,44,27708,No Error,22,Non-Eligible,No Error,51,Non-Eligible,No Error
+58.4,53114,No Error,74,32295,No Error,32,5154,No Error,97,72328,No Error,0,74989,EOI,89,39741,No Error,87,Non-Eligible,EOE,95,Eligible,No Error
+57.8,78336,No Error,52,20525,No Error,73,25055,No Error,19,60040,EOI,78,52900,No Error,67,12185,No Error,84,Eligible,No Error,99,Eligible,No Error
+50.8,33701,No Error,34,52547,No Error,70,37722,No Error,48,71235,No Error,44,41028,No Error,58,21010,No Error,75,Non-Eligible,No Error,33,Eligible,No Error
+50.6,67378,No Error,45,69028,No Error,77,18857,No Error,11,77690,EOI,37,22094,No Error,83,20800,No Error,38,Eligible,No Error,30,Eligible,No Error
+64.0,42437,No Error,48,19155,No Error,73,69801,No Error,64,62966,No Error,87,44031,No Error,48,39135,No Error,32,Non-Eligible,No Error,99,Non-Eligible,EOE
+85.0,45937,No Error,88,41784,No Error,89,76920,No Error,75,19262,No Error,74,61311,No Error,99,63564,No Error,87,Eligible,No Error,47,Eligible,No Error
+64.2,10145,No Error,48,42656,No Error,92,11124,No Error,85,23210,No Error,43,93355,No Error,53,25024,No Error,35,Non-Eligible,No Error,68,Eligible,No Error
+51.0,75292,No Error,20,25450,No Error,49,72965,No Error,73,43792,No Error,42,34903,No Error,71,47065,No Error,53,Eligible,No Error,62,Eligible,No Error
+63.0,38942,No Error,63,61248,No Error,74,47679,No Error,37,34389,No Error,86,55056,No Error,55,20609,No Error,29,Non-Eligible,No Error,68,Non-Eligible,No Error
+53.0,75105,No Error,33,78555,No Error,74,26737,No Error,38,20247,No Error,63,61381,No Error,57,66999,No Error,40,Non-Eligible,No Error,36,Non-Eligible,No Error
+47.2,24458,No Error,52,16238,No Error,65,42696,No Error,26,59587,No Error,43,76346,No Error,50,8131,No Error,44,Non-Eligible,No Error,66,Eligible,No Error
+72.4,32658,No Error,42,76315,No Error,82,59138,No Error,92,69229,No Error,66,75943,No Error,80,51694,No Error,53,Non-Eligible,No Error,67,Non-Eligible,No Error
+61.8,44823,No Error,54,33254,No Error,59,20883,No Error,49,13419,No Error,96,35317,No Error,51,35049,No Error,83,Eligible,No Error,84,Non-Eligible,EOE
+65.4,52530,No Error,88,4783,EOE,39,13524,No Error,80,78423,No Error,78,29250,No Error,42,30381,No Error,53,Non-Eligible,No Error,66,Non-Eligible,No Error
+63.6,41436,No Error,98,50703,No Error,71,17129,No Error,40,43370,No Error,62,40340,No Error,47,68896,No Error,25,Eligible,No Error,87,Eligible,No Error
+46.0,56876,No Error,25,59433,EOI,55,65370,No Error,79,75024,No Error,23,53017,EOI,48,37412,No Error,71,Non-Eligible,No Error,45,Eligible,No Error
+66.2,76856,No Error,72,41563,No Error,99,17547,No Error,30,28642,No Error,89,59164,No Error,41,74453,No Error,74,Non-Eligible,No Error,28,Non-Eligible,No Error
+73.6,76020,No Error,80,38057,No Error,98,56833,No Error,91,38231,No Error,22,53018,EOI,77,71177,No Error,68,Eligible,No Error,50,Non-Eligible,No Error
+42.6,96049,No Error,57,9455,No Error,43,52873,No Error,26,57000,No Error,41,96074,No Error,46,65565,No Error,80,Eligible,No Error,59,Eligible,No Error
+60.2,66533,No Error,97,18164,No Error,78,28486,No Error,73,40352,No Error,1,1096,No Error,52,28779,No Error,39,Eligible,No Error,97,Non-Eligible,EOE
+67.0,43221,No Error,73,44045,No Error,96,27303,No Error,78,60693,No Error,28,61090,No Error,60,79723,No Error,66,Non-Eligible,No Error,32,Non-Eligible,No Error
+72.0,23066,No Error,99,9517,EOE,83,6007,EOE,62,47682,No Error,24,96444,EOI,92,39254,No Error,36,Eligible,No Error,28,Eligible,No Error
+61.8,54024,No Error,49,70715,No Error,65,66947,No Error,97,66757,No Error,0,7394,No Error,98,60592,No Error,48,Eligible,No Error,36,Non-Eligible,No Error
+57.6,70793,No Error,29,68999,No Error,59,55421,No Error,65,66106,No Error,59,48862,No Error,76,30167,No Error,97,Non-Eligible,EOE,28,Eligible,No Error
+57.4,80991,No Error,52,33845,No Error,88,45740,No Error,42,64354,No Error,31,71009,No Error,74,51650,No Error,68,Non-Eligible,No Error,70,Non-Eligible,No Error
+51.6,83502,No Error,60,12635,No Error,90,55602,No Error,28,50212,No Error,17,78145,EOI,63,70460,No Error,55,Eligible,No Error,57,Non-Eligible,No Error
+57.0,84750,No Error,76,44382,No Error,62,38397,No Error,43,65066,No Error,45,67197,No Error,59,55133,No Error,53,Eligible,No Error,57,Eligible,No Error
+64.2,27338,No Error,55,34829,No Error,98,41993,No Error,33,14090,No Error,79,74423,No Error,56,14848,No Error,82,Eligible,No Error,81,Non-Eligible,EOE
+73.8,37804,No Error,93,58411,No Error,33,23845,No Error,92,15582,No Error,94,77808,No Error,57,36300,No Error,69,Non-Eligible,No Error,11,Non-Eligible,No Error
+58.6,21872,No Error,21,15387,No Error,48,27665,No Error,97,53374,No Error,73,27687,No Error,54,23809,No Error,77,Non-Eligible,No Error,46,Non-Eligible,No Error
+67.4,19031,No Error,30,66168,No Error,79,40360,No Error,49,30517,No Error,90,42808,No Error,89,78416,No Error,98,Non-Eligible,EOE,30,Non-Eligible,No Error
+65.8,5806,No Error,87,49758,No Error,66,46591,No Error,69,9450,No Error,21,60396,EOI,86,1971,EOE,76,Non-Eligible,No Error,50,Eligible,No Error
+78.4,84446,No Error,95,52494,No Error,83,16225,No Error,16,11890,No Error,99,60478,No Error,99,22155,No Error,20,Non-Eligible,No Error,90,Eligible,No Error
+70.6,63506,No Error,40,20653,No Error,99,37103,No Error,33,18278,No Error,81,3717,EOE,100,54283,No Error,47,Non-Eligible,No Error,55,Eligible,No Error
+53.4,92943,No Error,75,19007,No Error,52,40079,No Error,83,61177,No Error,11,15522,No Error,46,40507,No Error,53,Eligible,No Error,100,Non-Eligible,EOE
+65.2,86158,No Error,75,42045,No Error,82,53269,No Error,86,13120,No Error,1,61053,EOI,82,50378,No Error,27,Eligible,No Error,40,Non-Eligible,No Error
+56.0,27054,No Error,50,24380,No Error,37,69044,No Error,46,12453,No Error,97,33433,No Error,50,22094,No Error,66,Non-Eligible,No Error,29,Non-Eligible,No Error
+73.4,72688,No Error,82,68320,No Error,62,39592,No Error,93,21829,No Error,84,8045,EOE,46,56874,No Error,76,Non-Eligible,No Error,95,Eligible,No Error
+51.6,85438,No Error,33,66119,No Error,43,44584,No Error,96,54979,No Error,26,98540,No Error,60,65157,No Error,42,Eligible,No Error,97,Non-Eligible,EOE
+85.6,66788,No Error,79,66263,No Error,82,37660,No Error,94,21468,No Error,92,14674,No Error,81,12350,No Error,42,Eligible,No Error,29,Non-Eligible,No Error
+43.8,7301,No Error,24,19025,No Error,46,48623,No Error,14,10864,No Error,91,40158,No Error,44,71875,No Error,59,Non-Eligible,No Error,90,Eligible,No Error
+70.8,65892,No Error,98,35676,No Error,54,28199,No Error,49,36697,No Error,88,94195,No Error,65,29536,No Error,86,Non-Eligible,EOE,52,Non-Eligible,No Error
+64.2,46057,No Error,69,62594,No Error,32,11111,No Error,95,33936,No Error,83,40445,No Error,42,173,No Error,26,Non-Eligible,No Error,91,Non-Eligible,EOE
+67.0,12831,No Error,80,23552,No Error,98,72534,No Error,41,63654,No Error,42,9094,No Error,74,67635,No Error,57,Non-Eligible,No Error,45,Non-Eligible,No Error
+67.4,69270,No Error,47,31155,No Error,60,8033,No Error,85,61915,No Error,66,23074,No Error,79,21892,No Error,94,Non-Eligible,EOE,100,Non-Eligible,EOE
+56.2,30686,No Error,53,15241,No Error,77,20800,No Error,72,22584,No Error,11,43532,EOI,68,76428,No Error,78,Non-Eligible,No Error,22,Non-Eligible,No Error
+55.4,5072,No Error,63,5169,No Error,53,75936,No Error,40,30019,No Error,63,65426,No Error,58,55496,No Error,89,Eligible,No Error,40,Non-Eligible,No Error
+82.6,66182,No Error,96,77267,No Error,100,22478,No Error,62,11492,No Error,92,78340,No Error,63,12191,No Error,63,Non-Eligible,No Error,98,Non-Eligible,EOE
+64.2,71396,No Error,47,1970,No Error,65,5335,No Error,99,16215,No Error,42,36055,No Error,68,46566,No Error,57,Eligible,No Error,84,Non-Eligible,EOE
+63.0,55165,No Error,80,52475,No Error,100,10274,No Error,68,37663,No Error,22,96056,EOI,45,51749,No Error,47,Non-Eligible,No Error,40,Eligible,No Error
+51.2,13651,No Error,21,68299,EOI,93,12664,No Error,73,48755,No Error,18,78312,EOI,51,49524,No Error,60,Non-Eligible,No Error,65,Non-Eligible,No Error
+62.6,93060,No Error,50,63693,No Error,99,31768,No Error,52,15689,No Error,14,99183,EOI,98,25928,No Error,46,Non-Eligible,No Error,66,Non-Eligible,No Error
+57.0,56429,No Error,95,72933,No Error,33,46051,No Error,27,37275,No Error,72,87916,No Error,58,28377,No Error,97,Eligible,No Error,81,Non-Eligible,EOE
+61.8,25404,No Error,51,32104,No Error,75,64209,No Error,33,58304,No Error,88,35527,No Error,62,31466,No Error,81,Non-Eligible,EOE,93,Non-Eligible,EOE
+80.4,92961,No Error,82,76471,No Error,100,10597,No Error,84,59837,No Error,77,8468,EOE,59,1504,No Error,24,Non-Eligible,No Error,79,Eligible,No Error
+62.0,8541,No Error,33,18349,No Error,30,56708,No Error,97,57522,No Error,82,20195,No Error,68,25335,No Error,75,Non-Eligible,No Error,17,Eligible,EOI
+62.4,69126,No Error,36,23910,No Error,75,14398,No Error,13,63819,EOI,93,33393,No Error,95,34402,No Error,65,Eligible,No Error,50,Eligible,No Error
+67.6,41789,No Error,55,53405,No Error,54,52191,No Error,87,12422,No Error,89,6615,EOE,53,35948,No Error,61,Non-Eligible,No Error,60,Eligible,No Error
+45.0,57887,No Error,54,60192,No Error,44,63644,No Error,42,30016,No Error,35,76024,No Error,50,64020,No Error,88,Eligible,No Error,29,Non-Eligible,No Error
+68.8,52967,No Error,36,47428,No Error,61,7728,No Error,98,30501,No Error,81,15348,No Error,68,41863,No Error,98,Eligible,No Error,91,Eligible,No Error
+58.6,95923,No Error,84,62364,No Error,53,42534,No Error,16,37414,No Error,58,83483,No Error,82,48938,No Error,50,Eligible,No Error,92,Non-Eligible,EOE
+67.8,54776,No Error,64,66041,No Error,80,33347,No Error,23,43216,EOI,97,59025,No Error,75,46645,No Error,85,Eligible,No Error,26,Eligible,No Error
+63.0,95592,No Error,100,40654,No Error,73,32346,No Error,24,20172,No Error,21,95348,EOI,97,38786,No Error,63,Eligible,No Error,94,Non-Eligible,EOE
+48.2,9188,No Error,27,55450,No Error,58,5947,No Error,24,54010,EOI,74,59057,No Error,58,70715,No Error,55,Non-Eligible,No Error,98,Eligible,No Error
+55.0,82291,No Error,87,54751,No Error,37,57446,No Error,24,46939,EOI,35,80075,No Error,92,47735,No Error,60,Non-Eligible,No Error,25,Non-Eligible,No Error
+57.8,81975,No Error,88,53945,No Error,45,5444,No Error,55,27700,No Error,60,74883,No Error,41,62383,No Error,76,Eligible,No Error,98,Non-Eligible,EOE
+77.0,54468,No Error,59,5815,No Error,73,78020,No Error,99,67625,No Error,67,56632,No Error,87,76425,No Error,55,Eligible,No Error,80,Non-Eligible,EOE
+49.4,14456,No Error,49,48482,No Error,62,78287,No Error,51,66954,No Error,28,72446,No Error,57,29628,No Error,47,Eligible,No Error,41,Non-Eligible,No Error
+52.4,33737,No Error,94,35275,No Error,30,43346,No Error,84,35323,No Error,11,58841,EOI,43,28397,No Error,93,Eligible,No Error,31,Eligible,No Error
+45.6,3042,No Error,59,45110,No Error,33,60009,No Error,47,63166,No Error,17,14897,No Error,72,12103,No Error,47,Eligible,No Error,82,Non-Eligible,EOE
+47.8,50383,No Error,63,44392,No Error,59,7763,No Error,67,32007,No Error,7,85705,EOI,43,79796,No Error,23,Eligible,No Error,83,Non-Eligible,EOE
+74.0,89548,No Error,91,8459,EOE,71,60448,No Error,48,56307,No Error,89,22607,No Error,71,14506,No Error,23,Non-Eligible,No Error,50,Non-Eligible,No Error
+39.8,51615,No Error,44,71125,No Error,54,20607,No Error,13,44135,EOI,33,19690,No Error,55,1290,No Error,50,Eligible,No Error,96,Eligible,No Error
+62.8,80762,No Error,98,26397,No Error,40,28529,No Error,63,76874,No Error,32,95857,No Error,81,64988,No Error,58,Non-Eligible,No Error,78,Non-Eligible,No Error
+58.6,60699,No Error,47,50868,No Error,48,17295,No Error,78,79816,No Error,53,84201,No Error,67,68306,No Error,74,Non-Eligible,No Error,25,Non-Eligible,No Error
+64.6,48210,No Error,94,49771,No Error,30,71476,No Error,41,70629,No Error,69,77379,No Error,89,76221,No Error,54,Non-Eligible,No Error,36,Eligible,No Error
+63.6,43134,No Error,45,34691,No Error,46,26318,No Error,63,36521,No Error,77,27038,No Error,87,72069,No Error,66,Non-Eligible,No Error,59,Eligible,No Error
+63.4,48717,No Error,74,2700,No Error,73,65953,No Error,28,9004,No Error,78,41930,No Error,64,27066,No Error,53,Eligible,No Error,35,Eligible,No Error
+71.0,11376,EOE,87,24953,No Error,87,47946,No Error,31,9099,No Error,86,97669,No Error,64,33986,No Error,68,Non-Eligible,No Error,25,Eligible,No Error
+53.6,72547,No Error,51,8195,No Error,69,12191,No Error,18,59681,EOI,60,15018,No Error,70,50618,No Error,47,Non-Eligible,No Error,58,Eligible,No Error
+35.6,21060,No Error,22,18373,No Error,64,75685,No Error,16,30800,No Error,18,12698,No Error,58,4048,No Error,61,Eligible,No Error,99,Eligible,No Error
+63.4,24049,No Error,47,1145,No Error,81,76041,No Error,51,59290,No Error,54,50587,No Error,84,65374,No Error,69,Non-Eligible,No Error,84,Non-Eligible,EOE
+52.2,12628,No Error,93,73353,No Error,58,65029,No Error,43,13714,No Error,1,61446,EOI,66,56138,No Error,37,Non-Eligible,No Error,43,Non-Eligible,No Error
+53.6,44675,No Error,97,52849,No Error,58,33046,No Error,44,77859,No Error,20,40177,EOI,49,46986,No Error,83,Non-Eligible,EOE,44,Eligible,No Error
+48.0,81981,No Error,81,75154,No Error,30,70617,No Error,42,59614,No Error,25,7960,No Error,62,64226,No Error,74,Eligible,No Error,72,Non-Eligible,No Error
+60.2,65949,No Error,61,20110,No Error,100,36778,No Error,28,69916,No Error,53,40014,No Error,59,43982,No Error,71,Non-Eligible,No Error,84,Non-Eligible,EOE
+66.4,37144,No Error,86,61853,No Error,41,13270,No Error,95,55206,No Error,54,82477,No Error,56,53377,No Error,75,Eligible,No Error,90,Eligible,No Error
+34.4,31638,No Error,49,26537,No Error,37,31586,No Error,11,78758,EOI,21,96144,EOI,54,44450,No Error,91,Eligible,No Error,45,Non-Eligible,No Error
+54.0,1563,No Error,51,22574,No Error,58,20450,No Error,89,59470,No Error,28,35957,No Error,44,74302,No Error,71,Eligible,No Error,75,Non-Eligible,No Error
+54.4,14677,No Error,61,22707,No Error,75,50150,No Error,54,35919,No Error,35,73108,No Error,47,66654,No Error,30,Non-Eligible,No Error,62,Eligible,No Error
+59.6,75586,No Error,21,60912,EOI,83,28358,No Error,48,9566,No Error,55,54663,No Error,91,14052,No Error,21,Eligible,No Error,93,Eligible,No Error
+59.6,98123,No Error,42,13577,No Error,89,27436,No Error,38,30767,No Error,75,57953,No Error,54,5371,No Error,50,Eligible,No Error,97,Non-Eligible,EOE
+75.4,61682,No Error,58,38055,No Error,83,41142,No Error,63,29143,No Error,75,54816,No Error,98,16211,No Error,82,Eligible,No Error,66,Non-Eligible,No Error
+46.8,36615,No Error,27,4151,No Error,61,35412,No Error,10,26803,No Error,68,99413,No Error,68,9425,No Error,88,Eligible,No Error,26,Eligible,No Error
+64.0,49240,No Error,25,41911,EOI,80,53488,No Error,69,62497,No Error,86,68839,No Error,60,7012,No Error,70,Eligible,No Error,63,Eligible,No Error
+67.0,35665,No Error,43,48527,No Error,73,11288,No Error,75,44053,No Error,49,29539,No Error,95,10480,No Error,99,Eligible,No Error,43,Non-Eligible,No Error
+79.4,23274,No Error,88,26882,No Error,53,34980,No Error,93,73825,No Error,66,3454,No Error,97,52740,No Error,58,Non-Eligible,No Error,81,Eligible,No Error
+55.0,30648,No Error,29,34476,No Error,75,20259,No Error,29,64833,No Error,52,78740,No Error,90,50201,No Error,42,Eligible,No Error,95,Non-Eligible,EOE
+61.2,43537,No Error,65,74001,No Error,50,27280,No Error,61,48134,No Error,88,93355,No Error,42,25474,No Error,85,Eligible,No Error,10,Non-Eligible,No Error
+58.2,51193,No Error,34,34832,No Error,81,22927,No Error,76,11347,No Error,47,82744,No Error,53,54960,No Error,94,Non-Eligible,EOE,94,Non-Eligible,EOE
+58.4,25050,No Error,84,2036,EOE,97,70447,No Error,37,66640,No Error,9,25966,No Error,65,49167,No Error,61,Non-Eligible,No Error,47,Eligible,No Error
+40.4,48930,No Error,22,44240,EOI,37,74499,No Error,74,70072,No Error,4,74354,EOI,65,52925,No Error,20,Non-Eligible,No Error,85,Eligible,No Error
+53.6,79318,No Error,100,14440,No Error,75,36442,No Error,31,47453,No Error,9,71329,EOI,53,43761,No Error,23,Eligible,No Error,19,Non-Eligible,No Error
+58.2,3943,No Error,22,4843,No Error,34,43211,No Error,92,28689,No Error,52,41877,No Error,91,46847,No Error,81,Non-Eligible,EOE,14,Non-Eligible,No Error
+47.2,58433,No Error,83,8862,EOE,69,75238,No Error,25,78626,EOI,16,75906,EOI,43,21606,No Error,65,Eligible,No Error,32,Eligible,No Error
+45.4,96408,No Error,39,79153,No Error,39,16880,No Error,26,38658,No Error,30,77423,No Error,93,48377,No Error,70,Non-Eligible,No Error,97,Non-Eligible,EOE
+59.6,98915,No Error,94,18413,No Error,82,20388,No Error,35,59736,No Error,11,26827,No Error,76,72372,No Error,44,Eligible,No Error,41,Eligible,No Error
+57.6,92236,No Error,58,71467,No Error,40,36518,No Error,63,71278,No Error,34,5655,No Error,93,58486,No Error,40,Eligible,No Error,36,Eligible,No Error
+52.0,516,No Error,34,45288,No Error,91,6712,EOE,11,45804,EOI,43,61450,No Error,81,37436,No Error,84,Non-Eligible,EOE,78,Non-Eligible,No Error
+40.4,70228,No Error,27,71464,No Error,94,63778,No Error,34,35457,No Error,3,68839,EOI,44,41047,No Error,93,Eligible,No Error,76,Non-Eligible,No Error
+57.2,91960,No Error,95,27318,No Error,91,30556,No Error,22,14936,No Error,9,39594,No Error,69,54413,No Error,70,Non-Eligible,No Error,83,Eligible,No Error
+58.6,42634,No Error,70,36036,No Error,72,7981,No Error,42,68121,No Error,56,57024,No Error,53,19576,No Error,63,Non-Eligible,No Error,40,Non-Eligible,No Error
+60.4,70768,No Error,49,67450,No Error,84,7329,EOE,51,49550,No Error,40,40631,No Error,78,63547,No Error,96,Non-Eligible,EOE,37,Non-Eligible,No Error
+65.6,42489,No Error,100,55953,No Error,97,51020,No Error,39,41120,No Error,32,67573,No Error,60,40923,No Error,68,Eligible,No Error,21,Eligible,No Error
+64.6,49251,No Error,56,615,No Error,88,32070,No Error,42,50969,No Error,63,73833,No Error,74,12639,No Error,67,Eligible,No Error,32,Eligible,No Error
+46.4,15223,No Error,20,41966,EOI,43,5246,No Error,58,13683,No Error,17,75728,EOI,94,5309,EOE,79,Eligible,No Error,36,Eligible,No Error
+66.8,78534,No Error,92,4148,EOE,57,31340,No Error,84,47396,No Error,53,20273,No Error,48,15111,No Error,93,Non-Eligible,EOE,93,Non-Eligible,EOE
+40.2,88255,No Error,39,3608,No Error,31,22983,No Error,52,63700,No Error,17,4840,No Error,62,70534,No Error,61,Non-Eligible,No Error,16,Non-Eligible,No Error
+64.6,70905,No Error,40,58114,No Error,31,72060,No Error,73,26756,No Error,95,68265,No Error,84,34570,No Error,57,Non-Eligible,No Error,37,Non-Eligible,No Error
+76.6,97105,No Error,82,19410,No Error,87,47993,No Error,58,73039,No Error,92,81985,No Error,64,75730,No Error,33,Eligible,No Error,38,Eligible,No Error
+76.2,57188,No Error,22,10437,No Error,99,36582,No Error,87,41956,No Error,100,84693,No Error,73,20509,No Error,24,Eligible,No Error,64,Eligible,No Error
+48.0,28779,No Error,33,67772,No Error,39,37938,No Error,26,26503,No Error,66,66618,No Error,76,60301,No Error,31,Eligible,No Error,91,Eligible,No Error
+57.8,77736,No Error,56,68987,No Error,70,47677,No Error,74,73918,No Error,4,25583,No Error,85,15954,No Error,51,Non-Eligible,No Error,24,Eligible,No Error
+64.0,72888,No Error,34,57354,No Error,83,29290,No Error,47,40672,No Error,98,75171,No Error,58,56534,No Error,93,Eligible,No Error,59,Eligible,No Error
+44.6,25079,No Error,24,20172,No Error,47,40889,No Error,49,35986,No Error,30,47500,No Error,73,39257,No Error,75,Non-Eligible,No Error,79,Non-Eligible,No Error
+75.6,21548,No Error,100,2360,EOE,51,45014,No Error,85,42945,No Error,50,70451,No Error,92,17531,No Error,97,Eligible,No Error,41,Non-Eligible,No Error
+68.2,38175,No Error,42,32245,No Error,93,66586,No Error,26,49422,No Error,100,53000,No Error,80,23504,No Error,28,Non-Eligible,No Error,12,Non-Eligible,No Error
+61.2,98376,No Error,47,78381,No Error,74,14379,No Error,88,23359,No Error,9,79034,EOI,88,26576,No Error,25,Non-Eligible,No Error,76,Eligible,No Error
+54.0,35728,No Error,61,63334,No Error,61,17610,No Error,95,14213,No Error,12,5565,No Error,41,37397,No Error,25,Eligible,No Error,20,Eligible,EOI
+57.2,68924,No Error,26,384,No Error,69,31882,No Error,83,12502,No Error,65,27474,No Error,43,43013,No Error,54,Eligible,No Error,62,Eligible,No Error
+83.2,98515,No Error,82,27526,No Error,76,64835,No Error,96,30148,No Error,74,75851,No Error,88,73198,No Error,86,Eligible,No Error,48,Eligible,No Error
+64.4,48864,No Error,33,32088,No Error,81,48520,No Error,92,69976,No Error,53,85548,No Error,63,68799,No Error,51,Non-Eligible,No Error,40,Eligible,No Error
+57.4,28325,No Error,61,29369,No Error,81,67691,No Error,49,45651,No Error,28,22534,No Error,68,39077,No Error,34,Eligible,No Error,43,Non-Eligible,No Error
+60.4,63317,No Error,90,55718,No Error,32,41587,No Error,77,35437,No Error,31,22559,No Error,72,66835,No Error,31,Eligible,No Error,62,Non-Eligible,No Error
+35.4,24165,No Error,53,47872,No Error,36,55850,No Error,31,69512,No Error,9,10818,No Error,48,14203,No Error,95,Eligible,No Error,46,Non-Eligible,No Error
+60.4,36437,No Error,65,28352,No Error,98,61108,No Error,52,16935,No Error,26,87426,No Error,61,13651,No Error,66,Eligible,No Error,17,Eligible,EOI
+67.8,28075,No Error,59,15568,No Error,71,32195,No Error,80,20765,No Error,73,98273,No Error,56,3921,No Error,76,Eligible,No Error,30,Non-Eligible,No Error
+57.0,5838,No Error,39,66894,No Error,90,64043,No Error,38,35280,No Error,56,48512,No Error,62,19895,No Error,92,Non-Eligible,EOE,57,Non-Eligible,No Error
+54.0,36493,No Error,95,70272,No Error,49,74262,No Error,56,58227,No Error,19,60400,EOI,51,66872,No Error,74,Non-Eligible,No Error,76,Non-Eligible,No Error
+55.0,62258,No Error,51,13034,No Error,55,51895,No Error,33,36268,No Error,95,72764,No Error,41,62888,No Error,24,Non-Eligible,No Error,52,Eligible,No Error
+67.6,20058,No Error,85,79571,No Error,56,79119,No Error,43,11455,No Error,80,11263,No Error,74,39664,No Error,71,Non-Eligible,No Error,51,Eligible,No Error
+78.4,77654,No Error,92,23313,No Error,68,45209,No Error,79,16638,No Error,84,9278,EOE,69,11772,No Error,34,Non-Eligible,No Error,68,Non-Eligible,No Error
+68.2,55014,No Error,45,13141,No Error,75,25271,No Error,79,71174,No Error,42,96644,No Error,100,38725,No Error,96,Non-Eligible,EOE,92,Non-Eligible,EOE
+60.2,56543,No Error,42,10720,No Error,98,75977,No Error,67,46810,No Error,24,17399,No Error,70,65718,No Error,68,Non-Eligible,No Error,22,Non-Eligible,No Error
+54.8,11408,No Error,27,11691,No Error,76,34702,No Error,63,30564,No Error,18,59837,EOI,90,6886,EOE,67,Non-Eligible,No Error,76,Eligible,No Error
+67.0,2774,No Error,44,23158,No Error,98,12935,No Error,89,35113,No Error,17,64843,EOI,87,63597,No Error,87,Eligible,No Error,38,Non-Eligible,No Error
+45.4,50032,No Error,38,30114,No Error,48,16546,No Error,54,69886,No Error,14,28073,No Error,73,16950,No Error,93,Non-Eligible,EOE,97,Eligible,No Error
+54.8,98220,No Error,33,63336,No Error,61,10845,No Error,64,42603,No Error,72,68891,No Error,44,33210,No Error,72,Non-Eligible,No Error,60,Eligible,No Error
+77.2,19136,EOE,44,59600,No Error,88,45582,No Error,97,62361,No Error,73,39890,No Error,84,63415,No Error,46,Non-Eligible,No Error,63,Eligible,No Error
+51.0,50851,No Error,100,16514,No Error,74,10412,No Error,15,62121,EOI,8,67062,EOI,58,12668,No Error,95,Eligible,No Error,16,Eligible,EOI
+62.8,84827,No Error,50,73299,No Error,49,7971,No Error,47,50569,No Error,83,60046,No Error,85,38070,No Error,62,Eligible,No Error,28,Non-Eligible,No Error
+60.8,30277,No Error,100,48509,No Error,39,62871,No Error,49,31718,No Error,74,1617,No Error,42,67523,No Error,65,Eligible,No Error,74,Eligible,No Error
+54.2,43347,No Error,85,22392,No Error,48,52447,No Error,12,10005,No Error,57,36609,No Error,69,15020,No Error,65,Eligible,No Error,52,Non-Eligible,No Error
+59.2,68628,No Error,58,67703,No Error,59,24285,No Error,56,56372,No Error,43,25358,No Error,80,12511,No Error,53,Non-Eligible,No Error,76,Non-Eligible,No Error
+56.4,77604,No Error,71,17548,No Error,69,58319,No Error,21,60325,EOI,69,73197,No Error,52,52431,No Error,95,Non-Eligible,EOE,48,Eligible,No Error
+70.8,69308,No Error,39,38827,No Error,79,52489,No Error,87,46144,No Error,65,61811,No Error,84,52504,No Error,93,Non-Eligible,EOE,86,Eligible,No Error
+71.4,46210,No Error,98,61635,No Error,54,10529,No Error,53,46875,No Error,77,92726,No Error,75,53863,No Error,77,Non-Eligible,No Error,70,Non-Eligible,No Error
+67.8,22059,No Error,83,32604,No Error,57,40169,No Error,95,21425,No Error,23,1297,No Error,81,60416,No Error,46,Eligible,No Error,73,Eligible,No Error
+74.6,52138,No Error,47,9996,No Error,73,59490,No Error,96,69185,No Error,75,80198,No Error,82,18891,No Error,49,Non-Eligible,No Error,83,Non-Eligible,EOE
+73.6,43559,No Error,88,54089,No Error,97,66899,No Error,57,74606,No Error,61,89075,No Error,65,31200,No Error,34,Eligible,No Error,85,Non-Eligible,EOE
+52.8,10005,No Error,27,7779,No Error,62,12776,No Error,56,58134,No Error,32,53182,No Error,87,17537,No Error,60,Eligible,No Error,45,Non-Eligible,No Error
+75.0,91466,No Error,50,789,No Error,96,77893,No Error,89,64264,No Error,90,76795,No Error,50,52878,No Error,38,Eligible,No Error,61,Non-Eligible,No Error
+79.8,42225,No Error,87,9746,EOE,89,17096,No Error,96,66758,No Error,54,45180,No Error,73,60354,No Error,66,Eligible,No Error,24,Eligible,No Error
+60.4,63824,No Error,90,46538,No Error,87,27637,No Error,43,79658,No Error,41,79469,No Error,41,1731,No Error,34,Eligible,No Error,97,Eligible,No Error
+54.0,54844,No Error,21,78234,EOI,59,17319,No Error,25,28728,No Error,89,26788,No Error,76,5863,EOE,93,Non-Eligible,EOE,71,Eligible,No Error
+76.8,88017,No Error,93,42820,No Error,62,49459,No Error,69,10559,No Error,71,29598,No Error,89,44791,No Error,50,Non-Eligible,No Error,90,Eligible,No Error
+57.4,27533,No Error,82,27830,No Error,55,17637,No Error,31,34698,No Error,32,18363,No Error,87,52414,No Error,27,Non-Eligible,No Error,73,Non-Eligible,No Error
+57.8,89596,No Error,58,71741,No Error,87,22528,No Error,21,60556,EOI,58,58563,No Error,65,73923,No Error,66,Eligible,No Error,69,Eligible,No Error
+66.6,62688,No Error,27,39896,No Error,65,16578,No Error,45,64580,No Error,98,22462,No Error,98,78916,No Error,37,Non-Eligible,No Error,52,Eligible,No Error
+53.0,55584,No Error,96,64059,No Error,31,54535,No Error,60,59879,No Error,33,9631,No Error,45,29382,No Error,84,Non-Eligible,EOE,27,Eligible,No Error
+56.2,35082,No Error,37,17849,No Error,95,55803,No Error,89,55810,No Error,13,49120,EOI,47,16413,No Error,57,Eligible,No Error,91,Non-Eligible,EOE
+53.0,45825,No Error,46,67394,No Error,57,46631,No Error,14,72653,EOI,80,17640,No Error,68,16155,No Error,70,Eligible,No Error,55,Non-Eligible,No Error
+60.0,89664,No Error,71,19914,No Error,42,42190,No Error,50,37211,No Error,73,65554,No Error,64,60856,No Error,22,Eligible,No Error,68,Eligible,No Error
+64.6,2439,No Error,57,39805,No Error,91,6904,EOE,89,16013,No Error,12,38375,No Error,74,13954,No Error,56,Eligible,No Error,38,Non-Eligible,No Error
+76.0,64985,No Error,74,41708,No Error,94,6337,EOE,71,54758,No Error,87,36611,No Error,54,58970,No Error,90,Non-Eligible,EOE,57,Eligible,No Error
+52.0,4606,No Error,80,63762,No Error,31,54950,No Error,47,18536,No Error,56,3752,No Error,46,65003,No Error,24,Non-Eligible,No Error,74,Eligible,No Error
+76.4,77127,No Error,100,2929,EOE,85,71563,No Error,100,53997,No Error,12,56406,EOI,85,34447,No Error,39,Non-Eligible,No Error,15,Eligible,EOI
+51.2,53940,No Error,78,46713,No Error,63,9617,No Error,51,53387,No Error,17,23887,No Error,47,56141,No Error,81,Eligible,No Error,68,Eligible,No Error
+76.6,20685,No Error,49,41725,No Error,76,58771,No Error,96,57030,No Error,97,33990,No Error,65,28949,No Error,94,Eligible,No Error,50,Non-Eligible,No Error
+65.8,49544,No Error,94,3515,EOE,37,36995,No Error,60,38973,No Error,46,60897,No Error,92,48868,No Error,28,Non-Eligible,No Error,51,Non-Eligible,No Error
+71.4,16332,EOE,89,18939,No Error,83,6382,EOE,86,39524,No Error,34,46399,No Error,65,24130,No Error,43,Eligible,No Error,86,Eligible,No Error
+38.4,94443,No Error,21,68367,EOI,40,70095,No Error,45,78878,No Error,34,26669,No Error,52,71719,No Error,92,Eligible,No Error,70,Non-Eligible,No Error
+44.4,6830,No Error,39,50767,No Error,69,27976,No Error,29,25349,No Error,3,64425,EOI,82,73288,No Error,24,Non-Eligible,No Error,26,Eligible,No Error
+54.0,61570,No Error,43,19218,No Error,54,14438,No Error,76,23788,No Error,23,70528,EOI,74,5758,No Error,28,Non-Eligible,No Error,11,Non-Eligible,No Error
+49.2,11462,No Error,28,30918,No Error,65,42794,No Error,62,70613,No Error,8,1107,No Error,83,9228,EOE,33,Non-Eligible,No Error,42,Non-Eligible,No Error
+55.2,4071,No Error,80,23125,No Error,33,47857,No Error,68,11206,No Error,13,55744,EOI,82,10537,No Error,39,Non-Eligible,No Error,20,Eligible,EOI
+59.0,23748,No Error,73,34176,No Error,97,36365,No Error,20,51740,EOI,33,27117,No Error,72,38226,No Error,77,Non-Eligible,No Error,44,Non-Eligible,No Error
+45.6,99295,No Error,37,6133,No Error,55,34213,No Error,52,47970,No Error,14,9908,No Error,70,63355,No Error,63,Non-Eligible,No Error,60,Eligible,No Error
+54.6,39949,No Error,36,10675,No Error,43,43930,No Error,58,63027,No Error,49,82902,No Error,87,14784,No Error,55,Non-Eligible,No Error,72,Eligible,No Error
+59.4,73441,No Error,74,12820,No Error,30,24489,No Error,60,25950,No Error,87,21282,No Error,46,48384,No Error,78,Eligible,No Error,42,Non-Eligible,No Error
+59.4,11859,No Error,53,28011,No Error,77,54809,No Error,84,52065,No Error,4,74175,EOI,79,55892,No Error,55,Eligible,No Error,26,Eligible,No Error
+80.6,43626,No Error,85,65219,No Error,69,57779,No Error,68,37737,No Error,88,49620,No Error,93,33418,No Error,22,Non-Eligible,No Error,29,Eligible,No Error
+76.4,66958,No Error,82,44422,No Error,93,18103,No Error,93,29624,No Error,60,65233,No Error,54,20174,No Error,37,Non-Eligible,No Error,87,Non-Eligible,EOE
+36.4,41559,No Error,23,57127,EOI,43,22058,No Error,25,43814,EOI,43,38223,No Error,48,27346,No Error,37,Eligible,No Error,69,Non-Eligible,No Error
+48.4,30382,No Error,50,56451,No Error,55,64340,No Error,44,17741,No Error,15,5652,No Error,78,41275,No Error,92,Eligible,No Error,90,Non-Eligible,EOE
+53.8,89343,No Error,28,66218,No Error,67,22445,No Error,29,63299,No Error,84,79946,No Error,61,76725,No Error,64,Eligible,No Error,50,Non-Eligible,No Error
+43.6,32409,No Error,42,39703,No Error,81,34900,No Error,14,20383,No Error,28,37215,No Error,53,42647,No Error,99,Eligible,No Error,82,Non-Eligible,EOE
+50.2,94532,No Error,57,16885,No Error,77,48889,No Error,22,52261,EOI,23,60661,EOI,72,62029,No Error,70,Non-Eligible,No Error,69,Non-Eligible,No Error
+66.0,39374,No Error,25,64156,EOI,69,47843,No Error,79,10640,No Error,72,323,No Error,85,9350,EOE,68,Eligible,No Error,30,Non-Eligible,No Error
+74.2,70803,No Error,88,48577,No Error,47,5568,No Error,97,37856,No Error,77,1111,EOE,62,15881,No Error,52,Non-Eligible,No Error,88,Non-Eligible,EOE
+64.0,90489,No Error,90,19155,No Error,52,21408,No Error,94,17730,No Error,2,56642,EOI,82,26410,No Error,92,Non-Eligible,EOE,47,Non-Eligible,No Error
+56.6,48778,No Error,70,33946,No Error,67,44028,No Error,15,60335,EOI,38,8019,No Error,93,11994,No Error,54,Eligible,No Error,41,Eligible,No Error
+51.2,86899,No Error,69,8711,No Error,41,56843,No Error,59,22331,No Error,42,9442,No Error,45,510,No Error,80,Non-Eligible,EOE,36,Eligible,No Error
+56.4,94701,No Error,60,53196,No Error,67,67847,No Error,24,28124,No Error,42,88553,No Error,89,37328,No Error,97,Non-Eligible,EOE,61,Eligible,No Error
+51.2,42590,No Error,38,76891,No Error,45,44386,No Error,54,35298,No Error,61,79528,No Error,58,76402,No Error,38,Eligible,No Error,11,Eligible,EOI
+53.4,17942,No Error,41,71433,No Error,89,34703,No Error,44,45235,No Error,28,11512,No Error,65,7974,No Error,91,Non-Eligible,EOE,83,Eligible,No Error
+48.6,29056,No Error,29,71178,No Error,36,59935,No Error,45,33943,No Error,54,58350,No Error,79,42492,No Error,53,Eligible,No Error,67,Eligible,No Error
+58.4,15233,No Error,78,32308,No Error,68,40793,No Error,12,11369,No Error,84,62288,No Error,50,54764,No Error,33,Eligible,No Error,53,Non-Eligible,No Error
+56.8,85583,No Error,63,39957,No Error,71,20681,No Error,95,75836,No Error,9,25328,No Error,46,41742,No Error,57,Non-Eligible,No Error,64,Non-Eligible,No Error
+60.0,17082,No Error,75,56201,No Error,65,13270,No Error,64,47319,No Error,32,47017,No Error,64,11595,No Error,97,Eligible,No Error,30,Eligible,No Error
+46.2,57299,No Error,27,53058,No Error,88,75831,No Error,41,28469,No Error,29,1174,No Error,46,24983,No Error,74,Non-Eligible,No Error,95,Non-Eligible,EOE
+74.0,31429,No Error,87,49571,No Error,79,38593,No Error,50,78785,No Error,78,40791,No Error,76,58468,No Error,78,Non-Eligible,No Error,59,Non-Eligible,No Error
+50.0,46245,No Error,48,48497,No Error,32,29696,No Error,61,36443,No Error,35,17876,No Error,74,54150,No Error,41,Eligible,No Error,44,Eligible,No Error
+54.2,46542,No Error,41,50685,No Error,44,8602,No Error,78,24609,No Error,39,18241,No Error,69,74081,No Error,56,Eligible,No Error,62,Eligible,No Error
+48.6,66155,No Error,62,24705,No Error,80,72834,No Error,31,56665,No Error,27,6944,No Error,43,12357,No Error,44,Non-Eligible,No Error,51,Non-Eligible,No Error
+61.2,64903,No Error,74,9012,No Error,55,55295,No Error,70,14520,No Error,24,97368,EOI,83,1420,EOE,23,Non-Eligible,No Error,79,Eligible,No Error
+57.6,40929,No Error,39,79535,No Error,76,25893,No Error,20,21462,No Error,98,63236,No Error,55,58055,No Error,42,Eligible,No Error,21,Eligible,No Error
+55.8,24847,No Error,36,60829,No Error,49,8750,No Error,63,48249,No Error,80,49311,No Error,51,76481,No Error,47,Eligible,No Error,100,Eligible,No Error
+42.2,25582,No Error,29,62113,No Error,90,31208,No Error,33,43031,No Error,16,37401,No Error,43,833,No Error,96,Non-Eligible,EOE,52,Eligible,No Error
+66.6,99654,No Error,67,19433,No Error,88,16637,No Error,38,36839,No Error,99,69688,No Error,41,15289,No Error,76,Eligible,No Error,89,Eligible,No Error
+64.6,89933,No Error,50,37871,No Error,49,14825,No Error,57,21989,No Error,73,37960,No Error,94,35413,No Error,26,Eligible,No Error,91,Eligible,No Error
+46.8,90893,No Error,54,79592,No Error,76,18448,No Error,42,28249,No Error,11,92062,EOI,51,7120,No Error,58,Eligible,No Error,97,Eligible,No Error
+58.6,85442,No Error,53,24940,No Error,54,75407,No Error,32,76046,No Error,59,31068,No Error,95,36172,No Error,68,Non-Eligible,No Error,46,Eligible,No Error
+70.4,33957,No Error,87,18398,No Error,66,19593,No Error,18,20189,No Error,87,63575,No Error,94,7339,EOE,81,Eligible,No Error,46,Eligible,No Error
+51.8,8588,No Error,22,60027,EOI,83,75395,No Error,75,45698,No Error,14,82215,EOI,65,48775,No Error,54,Eligible,No Error,44,Non-Eligible,No Error
+53.6,84828,No Error,77,75413,No Error,82,62521,No Error,26,37157,No Error,19,52934,EOI,64,24354,No Error,55,Non-Eligible,No Error,89,Eligible,No Error
+70.6,41785,No Error,71,45945,No Error,48,18776,No Error,90,23295,No Error,97,96107,No Error,47,50769,No Error,92,Eligible,No Error,47,Non-Eligible,No Error
+72.2,53941,No Error,96,66528,No Error,38,7907,No Error,83,31523,No Error,52,27668,No Error,92,47833,No Error,54,Non-Eligible,No Error,60,Eligible,No Error
+55.6,52665,No Error,43,25644,No Error,60,62245,No Error,71,38127,No Error,44,47932,No Error,60,68511,No Error,53,Non-Eligible,No Error,84,Eligible,No Error
+68.8,16732,No Error,34,74110,No Error,85,56595,No Error,97,49829,No Error,53,91743,No Error,75,15406,No Error,76,Eligible,No Error,61,Eligible,No Error
+53.8,22362,No Error,44,181,No Error,66,71471,No Error,16,67331,EOI,49,67806,No Error,94,23810,No Error,66,Eligible,No Error,58,Eligible,No Error
+50.6,37705,No Error,43,10845,No Error,36,12638,No Error,16,79812,EOI,70,26260,No Error,88,61348,No Error,36,Eligible,No Error,97,Non-Eligible,EOE
+50.8,3776,No Error,66,509,No Error,45,70901,No Error,33,27612,No Error,43,37372,No Error,67,69605,No Error,33,Non-Eligible,No Error,33,Eligible,No Error
+72.8,54213,No Error,69,6646,No Error,93,12520,No Error,96,14135,No Error,48,57333,No Error,58,18585,No Error,97,Non-Eligible,EOE,87,Eligible,No Error
+80.6,47649,No Error,58,18754,No Error,99,73136,No Error,89,39396,No Error,68,21481,No Error,89,70558,No Error,33,Eligible,No Error,11,Non-Eligible,No Error
+62.2,63186,No Error,60,22970,No Error,95,50067,No Error,57,61760,No Error,19,57718,EOI,80,13680,No Error,27,Eligible,No Error,71,Eligible,No Error
+52.0,75589,No Error,23,46138,EOI,67,12531,No Error,55,38380,No Error,48,88905,No Error,67,68320,No Error,57,Eligible,No Error,73,Eligible,No Error
+76.2,42892,No Error,96,39682,No Error,88,66664,No Error,96,78080,No Error,18,83977,EOI,83,23988,No Error,45,Non-Eligible,No Error,78,Eligible,No Error
+62.6,65826,No Error,65,13227,No Error,39,43838,No Error,62,26961,No Error,48,10426,No Error,99,59552,No Error,90,Non-Eligible,EOE,57,Non-Eligible,No Error
+54.4,56610,No Error,40,50784,No Error,64,12670,No Error,29,31247,No Error,46,73163,No Error,93,57193,No Error,62,Non-Eligible,No Error,11,Eligible,EOI
+61.6,97490,No Error,32,77101,No Error,43,25632,No Error,97,54947,No Error,82,55293,No Error,54,21917,No Error,67,Non-Eligible,No Error,25,Eligible,No Error
+75.0,19916,EOE,67,3517,No Error,96,7460,EOE,66,75494,No Error,80,8403,EOE,66,64860,No Error,23,Non-Eligible,No Error,83,Eligible,No Error
+51.6,54492,No Error,26,66284,No Error,70,42003,No Error,20,14733,No Error,58,7950,No Error,84,70805,No Error,35,Eligible,No Error,92,Non-Eligible,EOE
+67.4,66003,No Error,38,3635,No Error,82,30416,No Error,55,40439,No Error,84,99494,No Error,78,31324,No Error,51,Non-Eligible,No Error,17,Eligible,EOI
+60.6,95389,No Error,70,41909,No Error,53,33578,No Error,63,44851,No Error,63,52764,No Error,54,25160,No Error,53,Non-Eligible,No Error,81,Non-Eligible,EOE
+60.6,51513,No Error,76,64180,No Error,34,72787,No Error,87,39410,No Error,49,59207,No Error,57,50631,No Error,75,Eligible,No Error,19,Eligible,EOI
+53.6,67464,No Error,49,12809,No Error,68,40842,No Error,66,79007,No Error,5,67007,EOI,80,53151,No Error,81,Eligible,No Error,89,Eligible,No Error
+71.4,16753,EOE,91,8396,EOE,77,27177,No Error,72,78727,No Error,22,25723,No Error,95,29071,No Error,24,Non-Eligible,No Error,25,Non-Eligible,No Error
+49.6,53402,No Error,48,28864,No Error,79,55852,No Error,20,31983,No Error,20,73293,EOI,81,73808,No Error,45,Non-Eligible,No Error,78,Eligible,No Error
+71.4,24812,No Error,80,61711,No Error,84,50994,No Error,97,68606,No Error,21,55000,EOI,75,3595,EOE,45,Non-Eligible,No Error,85,Eligible,No Error
+68.2,99309,No Error,94,48877,No Error,66,68182,No Error,98,16045,No Error,37,51056,No Error,46,15600,No Error,43,Eligible,No Error,92,Eligible,No Error
+44.4,80340,No Error,45,46224,No Error,43,49017,No Error,35,71247,No Error,0,15476,No Error,99,32731,No Error,76,Non-Eligible,No Error,69,Eligible,No Error
+76.0,4266,EOE,81,38922,No Error,44,47806,No Error,93,13426,No Error,65,93322,No Error,97,54508,No Error,78,Eligible,No Error,76,Eligible,No Error
+48.0,87835,No Error,43,11990,No Error,36,48553,No Error,41,39246,No Error,26,18834,No Error,94,25005,No Error,70,Non-Eligible,No Error,45,Eligible,No Error
+62.4,33934,No Error,66,65929,No Error,69,28720,No Error,100,38585,No Error,2,20019,No Error,75,62357,No Error,62,Non-Eligible,No Error,14,Eligible,EOI
+46.2,63298,No Error,22,2841,No Error,92,8668,EOE,43,74690,No Error,6,73264,EOI,68,66853,No Error,38,Eligible,No Error,82,Eligible,No Error
+58.6,84643,No Error,30,75215,No Error,76,50019,No Error,52,63137,No Error,76,35545,No Error,59,33897,No Error,36,Non-Eligible,No Error,86,Non-Eligible,EOE
+57.2,26325,No Error,53,4351,No Error,66,68206,No Error,35,38403,No Error,35,7229,No Error,97,58111,No Error,27,Non-Eligible,No Error,98,Eligible,No Error
+55.4,9291,No Error,66,27510,No Error,87,67828,No Error,25,43094,EOI,17,35803,No Error,82,57915,No Error,74,Non-Eligible,No Error,96,Non-Eligible,EOE
+60.2,5799,No Error,66,36454,No Error,66,54208,No Error,27,50272,No Error,75,9288,EOE,67,49075,No Error,85,Non-Eligible,EOE,38,Non-Eligible,No Error
+83.0,55282,No Error,92,63807,No Error,74,26809,No Error,81,49076,No Error,83,1786,EOE,85,10725,No Error,78,Non-Eligible,No Error,87,Eligible,No Error
+65.0,31386,No Error,59,51148,No Error,98,11698,No Error,76,64985,No Error,7,74406,EOI,85,22098,No Error,83,Non-Eligible,EOE,35,Non-Eligible,No Error
+50.4,89632,No Error,36,74160,No Error,85,36419,No Error,37,58391,No Error,10,60106,EOI,84,65154,No Error,97,Non-Eligible,EOE,34,Eligible,No Error
+54.2,70729,No Error,94,26235,No Error,40,36151,No Error,28,38172,No Error,26,84473,No Error,83,58390,No Error,25,Non-Eligible,No Error,32,Non-Eligible,No Error
+49.4,11891,No Error,31,64297,No Error,55,78208,No Error,48,77461,No Error,60,87938,No Error,53,4256,No Error,50,Non-Eligible,No Error,43,Eligible,No Error
+64.2,14641,No Error,73,37182,No Error,49,12355,No Error,46,76161,No Error,84,23052,No Error,69,21713,No Error,87,Eligible,No Error,83,Non-Eligible,EOE
+66.0,913,No Error,30,22013,No Error,88,27880,No Error,88,75759,No Error,84,40836,No Error,40,8526,No Error,53,Non-Eligible,No Error,78,Non-Eligible,No Error
+61.6,55,No Error,66,10166,No Error,85,23493,No Error,61,59759,No Error,31,25568,No Error,65,10089,No Error,30,Non-Eligible,No Error,24,Eligible,No Error
+51.0,33876,No Error,48,31652,No Error,57,79521,No Error,44,59098,No Error,12,29544,No Error,94,47240,No Error,57,Non-Eligible,No Error,64,Eligible,No Error
+79.2,60521,No Error,67,23253,No Error,70,19712,No Error,78,31443,No Error,98,64367,No Error,83,56653,No Error,28,Non-Eligible,No Error,20,Non-Eligible,No Error
+38.2,61169,No Error,25,12594,No Error,39,51135,No Error,24,67780,EOI,46,64515,No Error,57,34792,No Error,30,Eligible,No Error,74,Non-Eligible,No Error
+59.2,37977,No Error,65,37617,No Error,53,74231,No Error,57,12897,No Error,79,1365,EOE,42,12544,No Error,48,Eligible,No Error,15,Non-Eligible,No Error
+70.8,49859,No Error,100,68912,No Error,50,7527,No Error,81,9396,EOE,33,83340,No Error,90,12514,No Error,90,Eligible,No Error,18,Eligible,EOI
+77.6,75179,No Error,24,51434,EOI,97,38363,No Error,73,72776,No Error,100,16737,No Error,94,23177,No Error,20,Non-Eligible,No Error,35,Eligible,No Error
+43.8,17275,No Error,70,74446,No Error,42,56066,No Error,18,38097,No Error,36,57043,No Error,53,79839,No Error,21,Non-Eligible,No Error,48,Non-Eligible,No Error
+55.6,78882,No Error,63,49686,No Error,72,17498,No Error,28,27699,No Error,50,38044,No Error,65,34481,No Error,32,Eligible,No Error,99,Eligible,No Error
+41.0,15393,No Error,32,24855,No Error,40,24496,No Error,19,64460,EOI,22,54204,EOI,92,3583,EOE,24,Non-Eligible,No Error,15,Non-Eligible,No Error
+70.6,56830,No Error,54,78216,No Error,75,49260,No Error,72,30311,No Error,59,34474,No Error,93,38907,No Error,78,Non-Eligible,No Error,19,Non-Eligible,No Error
+39.8,91216,No Error,30,38058,No Error,70,65900,No Error,43,19441,No Error,3,53885,EOI,53,63455,No Error,31,Non-Eligible,No Error,33,Non-Eligible,No Error
+54.2,21226,No Error,79,4626,EOE,82,62960,No Error,15,42577,EOI,25,74393,EOI,70,31829,No Error,91,Eligible,No Error,97,Non-Eligible,EOE
+46.2,27550,No Error,49,48392,No Error,45,38882,No Error,96,76956,No Error,0,70227,EOI,41,21334,No Error,81,Non-Eligible,EOE,67,Non-Eligible,No Error
+75.4,83736,No Error,79,65723,No Error,91,35918,No Error,66,57890,No Error,50,61341,No Error,91,50008,No Error,46,Eligible,No Error,15,Eligible,EOI
+48.8,79393,No Error,47,47391,No Error,62,5894,No Error,18,68085,EOI,33,93545,No Error,84,48618,No Error,32,Eligible,No Error,51,Non-Eligible,No Error
+62.8,572,No Error,80,3961,EOE,56,23709,No Error,34,32781,No Error,65,69800,No Error,79,64686,No Error,62,Eligible,No Error,93,Eligible,No Error
+52.2,89448,No Error,27,40591,No Error,36,31446,No Error,85,62290,No Error,14,99328,EOI,99,70905,No Error,67,Non-Eligible,No Error,79,Non-Eligible,No Error
+51.0,79313,No Error,44,8483,No Error,63,51454,No Error,58,38673,No Error,13,26652,No Error,77,77418,No Error,60,Eligible,No Error,85,Eligible,No Error
+46.8,64856,No Error,43,43870,No Error,39,8504,No Error,28,16052,No Error,58,24936,No Error,66,45167,No Error,90,Non-Eligible,EOE,96,Eligible,No Error
+68.6,61431,No Error,48,70831,No Error,65,9353,No Error,84,38713,No Error,97,26143,No Error,49,60751,No Error,98,Non-Eligible,EOE,78,Non-Eligible,No Error
+57.0,85300,No Error,29,2681,No Error,81,32223,No Error,91,55121,No Error,16,67606,EOI,68,15230,No Error,36,Eligible,No Error,79,Eligible,No Error
+61.2,39146,No Error,81,46871,No Error,33,17415,No Error,86,41764,No Error,41,1050,No Error,65,62132,No Error,40,Non-Eligible,No Error,68,Eligible,No Error
+82.2,53422,No Error,69,48276,No Error,100,10955,No Error,94,45074,No Error,58,62793,No Error,90,40456,No Error,45,Non-Eligible,No Error,39,Eligible,No Error
+57.6,19964,No Error,57,73836,No Error,90,46706,No Error,76,20186,No Error,2,22763,No Error,63,4140,No Error,51,Eligible,No Error,76,Eligible,No Error
+69.0,77485,No Error,64,2730,No Error,70,10416,No Error,58,17825,No Error,60,56953,No Error,93,38438,No Error,67,Eligible,No Error,98,Eligible,No Error
+53.0,92375,No Error,24,66007,EOI,34,30460,No Error,81,36383,No Error,64,39569,No Error,62,52356,No Error,32,Eligible,No Error,58,Eligible,No Error
+66.2,70990,No Error,86,20627,No Error,93,21496,No Error,49,32366,No Error,59,27940,No Error,44,58615,No Error,68,Non-Eligible,No Error,27,Eligible,No Error
+50.6,83323,No Error,52,25642,No Error,47,46955,No Error,78,67363,No Error,13,74199,EOI,63,70139,No Error,23,Non-Eligible,No Error,42,Non-Eligible,No Error
+58.0,51549,No Error,74,8500,No Error,59,24046,No Error,33,17001,No Error,62,10670,No Error,62,32990,No Error,55,Non-Eligible,No Error,17,Eligible,EOI
+79.0,13729,EOE,80,27233,No Error,89,63960,No Error,88,74095,No Error,40,32651,No Error,98,27548,No Error,21,Non-Eligible,No Error,74,Non-Eligible,No Error
+52.4,33922,No Error,67,18450,No Error,31,74217,No Error,82,13213,No Error,40,77824,No Error,42,79864,No Error,48,Non-Eligible,No Error,29,Non-Eligible,No Error
+53.2,15984,No Error,24,56060,EOI,57,44513,No Error,50,53057,No Error,55,84229,No Error,80,46283,No Error,35,Non-Eligible,No Error,82,Non-Eligible,EOE
+64.2,55132,No Error,97,34311,No Error,43,6493,No Error,94,13265,No Error,8,21451,No Error,79,29885,No Error,36,Eligible,No Error,27,Eligible,No Error
+43.8,85920,No Error,26,26567,No Error,37,76261,No Error,30,15283,No Error,29,2350,No Error,97,76492,No Error,54,Non-Eligible,No Error,27,Non-Eligible,No Error
+76.6,56577,No Error,65,23267,No Error,95,39915,No Error,93,57239,No Error,79,12241,No Error,51,79296,No Error,90,Eligible,No Error,83,Non-Eligible,EOE
+52.4,31291,No Error,24,19610,No Error,58,51007,No Error,39,18292,No Error,93,22376,No Error,48,71322,No Error,32,Eligible,No Error,24,Eligible,No Error
+39.6,83181,No Error,23,52312,EOI,92,68562,No Error,37,47923,No Error,3,61783,EOI,43,59011,No Error,38,Non-Eligible,No Error,59,Non-Eligible,No Error
+62.0,74528,No Error,84,42572,No Error,35,21393,No Error,44,60975,No Error,95,77666,No Error,52,14448,No Error,40,Non-Eligible,No Error,56,Non-Eligible,No Error
+63.2,18047,No Error,77,41945,No Error,85,9339,EOE,49,51899,No Error,27,65931,No Error,78,27027,No Error,68,Eligible,No Error,100,Eligible,No Error
+61.0,64581,No Error,93,11842,No Error,34,65107,No Error,94,61469,No Error,17,33550,No Error,67,61231,No Error,93,Non-Eligible,EOE,31,Non-Eligible,No Error
+68.0,81503,No Error,50,26857,No Error,87,53476,No Error,84,36547,No Error,19,57835,EOI,100,55382,No Error,48,Eligible,No Error,27,Non-Eligible,No Error
+43.8,79202,No Error,50,72177,No Error,39,37129,No Error,18,16674,No Error,45,92726,No Error,67,45576,No Error,95,Non-Eligible,EOE,100,Non-Eligible,EOE
+60.4,86732,No Error,36,27651,No Error,64,5600,No Error,48,70790,No Error,95,7487,EOE,59,76917,No Error,82,Non-Eligible,EOE,84,Eligible,No Error
+65.6,55904,No Error,71,38395,No Error,78,75956,No Error,82,19044,No Error,33,16924,No Error,64,2503,No Error,56,Non-Eligible,No Error,22,Eligible,No Error
+74.2,3190,EOE,53,6730,No Error,30,73778,No Error,100,52514,No Error,96,12730,No Error,92,51404,No Error,99,Eligible,No Error,77,Non-Eligible,No Error
+54.6,66592,No Error,62,66950,No Error,52,17055,No Error,23,72929,EOI,42,77771,No Error,94,71722,No Error,50,Eligible,No Error,86,Eligible,No Error
+48.6,15809,No Error,87,10607,No Error,65,26199,No Error,10,24369,No Error,6,8540,No Error,75,25598,No Error,92,Eligible,No Error,40,Eligible,No Error
+68.2,48181,No Error,73,67471,No Error,97,9294,EOE,97,68853,No Error,16,86923,EOI,58,37998,No Error,55,Eligible,No Error,67,Non-Eligible,No Error
+49.0,56877,No Error,42,67312,No Error,47,47235,No Error,63,15793,No Error,19,59539,EOI,74,14324,No Error,96,Eligible,No Error,47,Non-Eligible,No Error
+55.6,23745,No Error,63,62680,No Error,91,74916,No Error,30,36338,No Error,50,18183,No Error,44,70485,No Error,64,Non-Eligible,No Error,22,Eligible,No Error
+46.8,9115,No Error,69,12581,No Error,40,13799,No Error,20,57060,EOI,42,29870,No Error,63,67484,No Error,59,Non-Eligible,No Error,53,Non-Eligible,No Error
+23.8,57137,EOI,28,23023,No Error,31,71954,No Error,13,24353,No Error,1,75040,EOI,46,68071,No Error,42,Non-Eligible,No Error,65,Eligible,No Error
+62.4,55676,No Error,58,64028,No Error,82,42892,No Error,16,25831,No Error,75,11304,No Error,81,16147,No Error,58,Non-Eligible,No Error,16,Eligible,EOI
+60.8,92144,No Error,24,32089,No Error,93,29596,No Error,30,51366,No Error,73,71516,No Error,84,68032,No Error,63,Non-Eligible,No Error,73,Non-Eligible,No Error
+52.6,48256,No Error,91,59076,No Error,34,29974,No Error,23,66069,EOI,30,8037,No Error,85,40995,No Error,26,Non-Eligible,No Error,85,Eligible,No Error
+47.2,84059,No Error,41,15545,No Error,90,12332,No Error,11,14376,No Error,7,11874,No Error,87,55989,No Error,21,Non-Eligible,No Error,22,Eligible,No Error
+79.0,75210,No Error,71,52219,No Error,64,10829,No Error,98,68731,No Error,97,25505,No Error,65,43371,No Error,67,Eligible,No Error,78,Non-Eligible,No Error
+57.2,62587,No Error,72,47030,No Error,35,5635,No Error,33,69061,No Error,64,29469,No Error,82,39685,No Error,63,Non-Eligible,No Error,53,Non-Eligible,No Error
+48.8,12976,No Error,75,61269,No Error,32,67096,No Error,32,28897,No Error,23,84943,EOI,82,25207,No Error,33,Eligible,No Error,99,Non-Eligible,EOE
+41.2,63157,No Error,38,62258,No Error,34,53821,No Error,26,60121,No Error,11,70576,EOI,97,51177,No Error,71,Non-Eligible,No Error,17,Eligible,EOI
+67.2,47692,No Error,68,71211,No Error,96,74503,No Error,19,60626,EOI,58,54835,No Error,95,79435,No Error,47,Non-Eligible,No Error,17,Non-Eligible,No Error
+52.6,1193,No Error,65,34637,No Error,43,34749,No Error,21,60246,EOI,59,6878,No Error,75,76763,No Error,44,Eligible,No Error,21,Non-Eligible,No Error
+66.0,3446,No Error,38,14124,No Error,74,66376,No Error,53,76139,No Error,89,9385,EOE,76,27598,No Error,93,Non-Eligible,EOE,95,Eligible,No Error
+58.6,45333,No Error,49,67588,No Error,48,46839,No Error,68,74649,No Error,75,54405,No Error,53,40765,No Error,58,Non-Eligible,No Error,24,Non-Eligible,No Error
+58.4,90507,No Error,59,12263,No Error,57,75208,No Error,57,56204,No Error,51,5699,No Error,68,41911,No Error,46,Eligible,No Error,38,Eligible,No Error
+58.0,51450,No Error,100,56203,No Error,85,48952,No Error,35,42219,No Error,6,58465,EOI,64,27186,No Error,56,Non-Eligible,No Error,14,Eligible,EOI
+67.2,83410,No Error,67,6180,No Error,76,25229,No Error,98,75188,No Error,24,8809,No Error,71,70637,No Error,90,Eligible,No Error,65,Non-Eligible,No Error
+68.6,67523,No Error,76,34912,No Error,51,10982,No Error,84,46786,No Error,78,80172,No Error,54,3705,No Error,69,Non-Eligible,No Error,71,Eligible,No Error
+58.8,55059,No Error,83,28460,No Error,79,32932,No Error,58,32496,No Error,6,38465,No Error,68,46001,No Error,54,Eligible,No Error,82,Non-Eligible,EOE
+50.4,36734,No Error,44,49388,No Error,51,71308,No Error,58,15192,No Error,39,772,No Error,60,60098,No Error,64,Non-Eligible,No Error,48,Non-Eligible,No Error
+70.0,76108,No Error,54,49621,No Error,79,20380,No Error,72,21482,No Error,82,67043,No Error,63,53865,No Error,84,Non-Eligible,EOE,67,Non-Eligible,No Error
+59.8,71360,No Error,49,50490,No Error,98,74246,No Error,57,78082,No Error,50,76462,No Error,45,18660,No Error,31,Eligible,No Error,64,Eligible,No Error
+58.2,99496,No Error,49,67805,No Error,30,49484,No Error,68,29442,No Error,74,56500,No Error,70,78620,No Error,100,Non-Eligible,EOE,85,Eligible,No Error
+35.8,52533,No Error,46,23547,No Error,30,76747,No Error,55,13227,No Error,5,42313,EOI,43,37119,No Error,88,Eligible,No Error,69,Non-Eligible,No Error
+52.4,41252,No Error,46,64657,No Error,80,10694,No Error,29,44830,No Error,33,50259,No Error,74,73683,No Error,97,Non-Eligible,EOE,91,Non-Eligible,EOE
+60.0,27696,No Error,36,31226,No Error,74,69153,No Error,64,24867,No Error,58,75547,No Error,68,15907,No Error,30,Non-Eligible,No Error,59,Eligible,No Error
+78.8,59709,No Error,82,4691,EOE,88,34932,No Error,96,48124,No Error,88,31576,No Error,40,8900,No Error,57,Non-Eligible,No Error,60,Non-Eligible,No Error
+57.8,65921,No Error,72,52164,No Error,42,45933,No Error,40,45673,No Error,69,1175,No Error,66,31280,No Error,58,Eligible,No Error,64,Non-Eligible,No Error
+66.6,15201,No Error,64,26941,No Error,94,24543,No Error,86,14603,No Error,37,47245,No Error,52,40624,No Error,90,Non-Eligible,EOE,79,Eligible,No Error
+49.4,7946,No Error,31,54184,No Error,46,28395,No Error,77,75097,No Error,3,65215,EOI,90,45913,No Error,56,Non-Eligible,No Error,73,Non-Eligible,No Error
+50.4,19507,No Error,20,15006,No Error,40,44056,No Error,65,14050,No Error,72,24700,No Error,55,54738,No Error,33,Eligible,No Error,16,Non-Eligible,No Error
+59.0,35207,No Error,73,48496,No Error,90,15039,No Error,39,47921,No Error,38,86983,No Error,55,24424,No Error,26,Eligible,No Error,51,Eligible,No Error
+63.2,25390,No Error,94,45099,No Error,48,38537,No Error,79,69067,No Error,32,88867,No Error,63,2502,No Error,81,Eligible,No Error,96,Non-Eligible,EOE
+46.2,39945,No Error,79,16179,No Error,40,61383,No Error,30,50583,No Error,36,44764,No Error,46,41130,No Error,55,Eligible,No Error,60,Non-Eligible,No Error
+54.2,30641,No Error,50,673,No Error,76,72914,No Error,53,54192,No Error,30,49563,No Error,62,60764,No Error,76,Non-Eligible,No Error,47,Non-Eligible,No Error
+55.0,36996,No Error,24,58781,EOI,34,75294,No Error,71,62749,No Error,72,97171,No Error,74,17025,No Error,59,Non-Eligible,No Error,58,Non-Eligible,No Error
+62.2,19269,No Error,60,5874,No Error,99,28474,No Error,47,46108,No Error,14,43871,EOI,91,51637,No Error,78,Eligible,No Error,22,Eligible,No Error
+58.6,33283,No Error,63,3768,No Error,35,10165,No Error,51,52095,No Error,75,34956,No Error,69,77361,No Error,26,Non-Eligible,No Error,11,Non-Eligible,No Error
+63.8,2667,No Error,46,13166,No Error,32,11029,No Error,66,61720,No Error,87,68431,No Error,88,60877,No Error,49,Eligible,No Error,68,Non-Eligible,No Error
+62.0,45919,No Error,78,49387,No Error,60,75277,No Error,54,10201,No Error,61,45939,No Error,57,43920,No Error,56,Eligible,No Error,47,Non-Eligible,No Error
+60.2,93533,No Error,30,57170,No Error,78,66812,No Error,66,33020,No Error,38,24405,No Error,89,22893,No Error,70,Non-Eligible,No Error,37,Eligible,No Error
+49.4,59563,No Error,68,29125,No Error,45,39115,No Error,48,39602,No Error,27,30955,No Error,59,32781,No Error,36,Eligible,No Error,61,Non-Eligible,No Error
+75.2,53909,No Error,87,14278,No Error,48,50422,No Error,82,52805,No Error,75,42262,No Error,84,17790,No Error,44,Non-Eligible,No Error,86,Non-Eligible,EOE
+61.8,31790,No Error,82,68020,No Error,57,11518,No Error,19,44341,EOI,92,36013,No Error,59,46642,No Error,79,Non-Eligible,No Error,35,Non-Eligible,No Error
+66.2,55509,No Error,43,876,No Error,89,22523,No Error,80,71871,No Error,74,15636,No Error,45,28033,No Error,29,Non-Eligible,No Error,18,Eligible,EOI
+62.4,83306,No Error,90,233,EOE,38,7872,No Error,41,67840,No Error,66,51610,No Error,77,63620,No Error,72,Non-Eligible,No Error,31,Non-Eligible,No Error
+59.8,57082,No Error,89,29390,No Error,45,64273,No Error,88,47605,No Error,9,34027,No Error,68,6916,No Error,90,Eligible,No Error,31,Eligible,No Error
+74.6,61081,No Error,67,73703,No Error,55,7635,No Error,78,71339,No Error,78,29959,No Error,95,67416,No Error,35,Non-Eligible,No Error,52,Eligible,No Error
+52.2,3381,No Error,38,14988,No Error,65,31358,No Error,95,38127,No Error,14,28847,No Error,49,58781,No Error,74,Eligible,No Error,33,Non-Eligible,No Error
+34.0,69527,No Error,39,16713,No Error,46,50083,No Error,29,58016,No Error,12,35700,No Error,44,76093,No Error,96,Eligible,No Error,82,Non-Eligible,EOE
+61.4,22309,No Error,51,32301,No Error,90,9101,EOE,11,55837,EOI,62,910,No Error,93,11963,No Error,55,Eligible,No Error,81,Eligible,No Error
+64.2,3861,No Error,78,26951,No Error,77,29861,No Error,98,17589,No Error,9,36878,No Error,59,5112,No Error,76,Eligible,No Error,26,Non-Eligible,No Error
+59.0,65358,No Error,39,62598,No Error,85,65933,No Error,10,11783,No Error,81,33181,No Error,80,16878,No Error,47,Eligible,No Error,98,Eligible,No Error
+49.0,51404,No Error,25,60502,EOI,93,22904,No Error,70,62703,No Error,12,47128,EOI,45,61914,No Error,64,Eligible,No Error,11,Non-Eligible,No Error
+59.4,3803,No Error,76,40862,No Error,98,55250,No Error,20,59082,EOI,30,79888,No Error,73,78372,No Error,61,Eligible,No Error,87,Non-Eligible,EOE
+56.0,40112,No Error,98,21127,No Error,52,50556,No Error,21,71523,EOI,29,18566,No Error,80,74864,No Error,92,Eligible,No Error,72,Eligible,No Error
+61.2,70494,No Error,33,44795,No Error,83,58600,No Error,81,74257,No Error,39,40236,No Error,70,17543,No Error,58,Non-Eligible,No Error,19,Non-Eligible,No Error
+36.6,50857,No Error,24,23750,No Error,61,72069,No Error,37,37530,No Error,2,17856,No Error,59,67436,No Error,35,Eligible,No Error,15,Non-Eligible,No Error
+55.4,63813,No Error,29,1157,No Error,85,48852,No Error,49,50936,No Error,69,8384,No Error,45,38176,No Error,32,Non-Eligible,No Error,93,Non-Eligible,EOE
+43.4,97560,No Error,52,63592,No Error,60,22907,No Error,42,40248,No Error,19,89972,EOI,44,16343,No Error,33,Eligible,No Error,40,Eligible,No Error
+43.2,26546,No Error,47,57527,No Error,56,51048,No Error,20,10212,No Error,26,73343,No Error,67,77088,No Error,91,Eligible,No Error,94,Non-Eligible,EOE
+54.2,2416,No Error,73,24879,No Error,49,44957,No Error,22,29146,No Error,82,49789,No Error,45,389,No Error,97,Eligible,No Error,63,Eligible,No Error
+77.2,34225,No Error,88,75792,No Error,84,16255,No Error,99,57012,No Error,75,9678,EOE,40,21579,No Error,95,Eligible,No Error,23,Eligible,No Error
+45.2,20664,No Error,46,2250,No Error,54,72747,No Error,10,33853,No Error,42,93536,No Error,74,77789,No Error,42,Non-Eligible,No Error,58,Eligible,No Error
+63.2,73859,No Error,87,74558,No Error,71,30869,No Error,24,49554,EOI,92,55453,No Error,42,78681,No Error,80,Non-Eligible,EOE,77,Non-Eligible,No Error
+57.6,42035,No Error,75,35632,No Error,36,58454,No Error,83,51086,No Error,30,58850,No Error,64,42559,No Error,65,Eligible,No Error,65,Eligible,No Error
+74.6,85291,No Error,71,26687,No Error,86,7516,EOE,75,20643,No Error,54,53345,No Error,87,27896,No Error,36,Eligible,No Error,20,Non-Eligible,No Error
+31.8,94278,No Error,22,11445,No Error,30,27309,No Error,30,24834,No Error,28,47521,No Error,49,34134,No Error,38,Eligible,No Error,18,Eligible,EOI
+80.2,64158,No Error,72,62265,No Error,88,77917,No Error,71,12573,No Error,96,56491,No Error,74,11237,No Error,24,Eligible,No Error,68,Non-Eligible,No Error
+46.4,52705,No Error,54,78288,No Error,99,58902,No Error,31,67600,No Error,4,77783,EOI,44,30372,No Error,55,Non-Eligible,No Error,29,Non-Eligible,No Error
+52.4,20932,No Error,43,67356,No Error,30,32669,No Error,68,38616,No Error,68,29995,No Error,53,24644,No Error,94,Non-Eligible,EOE,54,Eligible,No Error
+58.0,86160,No Error,53,78221,No Error,46,30167,No Error,66,22742,No Error,27,15786,No Error,98,41286,No Error,88,Non-Eligible,EOE,27,Non-Eligible,No Error
+66.4,36502,No Error,96,30679,No Error,36,7435,No Error,65,19372,No Error,43,45599,No Error,92,62512,No Error,45,Non-Eligible,No Error,55,Non-Eligible,No Error
+61.2,14172,No Error,70,69801,No Error,91,17461,No Error,67,38308,No Error,30,41918,No Error,48,7959,No Error,84,Non-Eligible,EOE,23,Eligible,No Error
+47.0,18507,No Error,61,49283,No Error,57,11752,No Error,28,72235,No Error,13,90897,EOI,76,60916,No Error,85,Non-Eligible,EOE,21,Non-Eligible,No Error
+65.4,52709,No Error,81,24332,No Error,71,76156,No Error,35,59908,No Error,98,5929,EOE,42,7878,No Error,28,Non-Eligible,No Error,36,Eligible,No Error
+67.4,88968,No Error,60,54507,No Error,73,13286,No Error,73,63613,No Error,68,93799,No Error,63,33102,No Error,48,Non-Eligible,No Error,12,Eligible,EOI
+53.0,97664,No Error,40,9410,No Error,60,59110,No Error,28,41578,No Error,76,62917,No Error,61,44267,No Error,73,Eligible,No Error,12,Eligible,EOI
+49.2,5977,No Error,73,13277,No Error,65,70885,No Error,11,22035,No Error,46,67888,No Error,51,65090,No Error,49,Eligible,No Error,64,Non-Eligible,No Error
+60.2,47576,No Error,29,66227,No Error,36,51978,No Error,86,20375,No Error,60,72669,No Error,90,27986,No Error,77,Eligible,No Error,52,Non-Eligible,No Error
+59.8,9219,No Error,35,21230,No Error,60,27483,No Error,30,61455,No Error,100,36616,No Error,74,19424,No Error,78,Non-Eligible,No Error,70,Eligible,No Error
+47.4,13570,No Error,57,31551,No Error,81,67198,No Error,15,51270,EOI,17,80397,EOI,67,29263,No Error,28,Non-Eligible,No Error,30,Non-Eligible,No Error
+58.4,1621,No Error,96,3053,EOE,67,42878,No Error,37,46712,No Error,40,93515,No Error,52,62647,No Error,82,Non-Eligible,EOE,42,Non-Eligible,No Error
+50.2,52494,No Error,51,58136,No Error,59,50341,No Error,56,21861,No Error,25,14103,No Error,60,19594,No Error,72,Eligible,No Error,43,Eligible,No Error
+78.0,8531,EOE,75,76562,No Error,96,11936,No Error,91,34243,No Error,65,79373,No Error,63,28427,No Error,36,Eligible,No Error,72,Non-Eligible,No Error
+48.6,98742,No Error,74,72806,No Error,36,21046,No Error,48,40791,No Error,21,33314,No Error,64,22496,No Error,80,Non-Eligible,EOE,88,Non-Eligible,EOE
+59.8,59864,No Error,23,8550,No Error,43,39556,No Error,63,15413,No Error,91,25926,No Error,79,54764,No Error,38,Eligible,No Error,15,Eligible,EOI
+59.8,57695,No Error,46,27416,No Error,78,53691,No Error,46,62284,No Error,31,78965,No Error,98,78011,No Error,38,Eligible,No Error,34,Eligible,No Error
+56.4,73539,No Error,60,79211,No Error,39,71169,No Error,52,55554,No Error,75,63478,No Error,56,40690,No Error,25,Non-Eligible,No Error,19,Non-Eligible,No Error
+48.6,14679,No Error,24,16078,No Error,93,29750,No Error,12,18799,No Error,70,74615,No Error,44,15183,No Error,20,Non-Eligible,No Error,51,Eligible,No Error
